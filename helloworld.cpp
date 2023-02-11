@@ -13,6 +13,7 @@ using namespace std;
   waterCups = 2;
 
   cout << "You should use ";
+  cout << "You should use ";
   cout << waterCups;
   cout << " for every cup of rice" << endl;
 
